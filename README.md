@@ -88,10 +88,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as client:
     print("Server says:", reply)
 
 ## Output:
+<img width="965" height="812" alt="Screenshot 2026-10-30 190547" src="https://github.com/user-attachments/assets/6f6cd89d-83c1-45b0-b349-4c765c75c852" />
 
-<img width="965" height="812" alt="Screenshot 2026-10-30 190547" src="https://github.com/user-attachments/assets/8bd86d60-e0b6-4ce6-b19c-4c8408a1370f" />
+<img width="967" height="775" alt="Screenshot 2026-10-30 190555" src="https://github.com/user-attachments/assets/6db86f58-2df7-4fc7-811c-e357e17a67d5" />
 
-<img width="967" height="775" alt="Screenshot 2026-10-30 190555" src="https://github.com/user-attachments/assets/8c3134d5-5c89-44ca-8a5d-8437eb47b9fa" />
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
